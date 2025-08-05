@@ -17,11 +17,16 @@ This repository contains the cardiac cell model and MRI-based anatomical data us
 ```bash
 git clone https://github.com/YOUR_USERNAME/doxorubicin_fibrosis_model.git
 cd doxorubicin_fibrosis_model
+```
 
 2. Install dependencies:
+```bash
 pip install -r requirements.txt
+```
 
 3. Run the single-cell simulation:
+```bash
 python scripts/run_single_cell.py
+```
 
 
